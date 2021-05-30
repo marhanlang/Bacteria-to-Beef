@@ -1,0 +1,22 @@
+body {
+  color: #0F0000;
+  background-color: #FFFF
+  }
+
+.jumbotron {
+  background-image: url("bacteria.jfif");
+  background-size: 100% 100%;
+  text-align: center;
+  color: #FFFF;
+  font-family: "Times New Roman", Times, serif;
+}
+.well{
+  color: #0f0f0f;
+  background-color: #c3f7f0;
+  font-family: "Times New Roman", Times, serif;
+  }
+  
+.panel{
+  background-color: #c3f7f0;
+  font-family: "Times New Roman", Times, serif;
+}
